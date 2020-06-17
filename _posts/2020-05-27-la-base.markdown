@@ -6,4 +6,4 @@ lang: fr
 ref: base
 categories: socle, compétences
 ---
-Commençons par le commencement : les contraintes hiérarchiques ! Le texte de référence concernant les compétences est le [socle commun](https://www.legifrance.gouv.fr/eli/decret/2015/3/31/MENE1506516D/jo/texte).
+Commençons par le commencement : les contraintes hiérarchiques ! Le texte de référence concernant les compétences est le [socle commun](https://www.legifrance.gouv.fr/eli/decret/2015/3/31/MENE1506516D/jo/texte). Le programme bien évidemment pour les différents cycles (2, 3 et 4). 
