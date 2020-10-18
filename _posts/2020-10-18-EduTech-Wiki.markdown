@@ -10,4 +10,4 @@ categories: bases, pédagogie, théorie, pédagogie
 EduTech Wiki, une ressource théorique indeispensable
 ====================================================
 
-Le site [EduTech wiki](https://edutechwiki.unige.ch/) edité par TECFA (unité Technologies de Formation et Apprentissage) de l'université de Genève, est une mine d'or pour étayé toutes les bases théoriques que nous sommes censés avoir mais que l'on ne maîtrise pas et qui peuvent ensuite trouver une application en classe.
+Le site [EduTech wiki](https://edutechwiki.unige.ch/) edité par TECFA (unité Technologies de Formation et Apprentissage) de l'université de Genève, est une mine d'or pour étayer toutes les bases théoriques que nous sommes censés avoir mais que l'on ne maîtrise pas et qui peuvent ensuite trouver une application en classe.
